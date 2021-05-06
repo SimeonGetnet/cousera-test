@@ -26,3 +26,7 @@ header, footer{
 li {
 	color: blue;
 }
+h1 {
+	color: blue;
+	text-align: center;
+}

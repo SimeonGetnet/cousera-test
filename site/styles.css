@@ -65,6 +65,7 @@ aside{
 	overflow-y: auto;
 	padding-right: 50px;
 	padding-left: 50px;
+	opacity: 1;
 }
 header{
 	border: 3px black;
